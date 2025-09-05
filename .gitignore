@@ -1,0 +1,15 @@
+# Remix / Solidity
+artifacts/
+cache/
+.remix/
+.deps/
+build/
+*.abi
+*.bin
+
+# Node / tooling (por si se usa luego)
+node_modules/
+package-lock.json
+
+# Entornos
+.env
