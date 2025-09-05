@@ -1,0 +1,16 @@
+{
+  "network": "celo-mainnet",
+  "evm": "cancun",
+  "contracts": [
+    {
+      "name": "SimpleStorage",
+      "address": "0x92053eB2F54F2DC06418a02F362135350715BE6f",
+      "blockscout": "https://celo.blockscout.com/address/0x92053eB2F54F2DC06418a02F362135350715BE6f?tab=contract",
+      "compiler": "0.8.24",
+      "optimization": true,
+      "runs": 200,
+      "verified": true,
+      "verifiedAt": "2025-09-05"
+    }
+  ]
+}
