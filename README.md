@@ -19,3 +19,6 @@ Ejemplo mínimo de contrato inteligente desplegado y **verificado** en **Celo ma
 
 ## Licencia
 MIT — ver archivo [`LICENSE`](./LICENSE).
+
+## Changelog
+- v0.1.0: initial release (verified on Celo mainnet).
