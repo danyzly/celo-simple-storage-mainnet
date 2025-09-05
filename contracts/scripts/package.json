@@ -1,0 +1,12 @@
+{
+  "name": "celo-simple-storage",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "call": "node scripts/call_setValue.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "dotenv": "^16.4.5"
+  }
+}
